@@ -120,6 +120,18 @@ body {
 }
 */
 
+article {
+    color: black;
+    margin: 0%;
+    background-color: gray;
+}
+
+footer {
+    color: black;
+    margin: 0%;
+    background-color: gray;
+}
+
 header {
     height: 100vh;
     background-image: url(../img/Pisaje\ 1.jpg);
